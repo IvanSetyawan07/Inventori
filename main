@@ -1,0 +1,10 @@
+package Inventory;
+
+public class head {
+    public static void main(String[] args) {
+        Product barang = new Product();
+        barang.menu();
+        barang.getDataValue();
+
+    }
+}
